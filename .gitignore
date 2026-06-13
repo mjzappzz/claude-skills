@@ -7,3 +7,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 scripts/.coverage
+.system/
+.codex/
+.agents/
+logs/
+node_modules/
+*.log
+generated-reports/
