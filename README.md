@@ -428,6 +428,7 @@ MIT
 ---
 
 **相关资源：**
-- [Agents 仓库](https://github.com/mjzappzz/claude-agents) — 100+ 领域专家 Agent
+- [Claude Agents 仓库](https://github.com/mjzappzz/claude-agents) — 100+ 领域专家 Agent（含 J.A.R.V.I.S. 路由）
+- [Codex Skills 仓库](https://github.com/mjzappzz/codex-skills) — 26 个工程技能（调试/审查/CI/CD/安全等）
 - [Claude Code 官方文档](https://docs.anthropic.com/en/docs/claude-code)
 - [Anthropic 官方](https://anthropic.com)
